@@ -1,0 +1,30 @@
+body{
+  background-color: #EFF5F5;
+}
+  hr{
+  border-color: grey;
+    border-style:dotted none none none;
+    border-width: 8px;
+    width: 6%;
+  }
+  h1,h3{
+    color: #66bfbf;
+  }
+
+.shadow:hover{
+  box-shadow: 0 0 3px grey;
+}
+.kk {
+  border-radius:100%;
+  background-color: #ADDDD0;
+  padding: 1%;
+  border-width: 6px;
+}
+
+.kk:hover{
+  background-color: #79B4B7;
+}
+
+.star{
+  text-shadow: 1px 1px 2px grey;
+}
